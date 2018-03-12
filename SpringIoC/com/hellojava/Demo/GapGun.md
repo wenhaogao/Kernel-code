@@ -1,3 +1,4 @@
+```
 package com.hellojava.Demo;
 
 public class GapGun implements Toy {  
@@ -21,3 +22,4 @@ public class GapGun implements Toy {
 		System.out.println("玩具手枪："+info);
 		}  
 	} 
+```

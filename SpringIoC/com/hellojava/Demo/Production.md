@@ -1,3 +1,4 @@
+```
 package com.hellojava.Demo;
 
 import javax.annotation.Resource;
@@ -16,3 +17,4 @@ public class Production {
 		toy.toyInfo();  
 		} 
 	}
+```
